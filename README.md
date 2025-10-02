@@ -5,6 +5,7 @@
        style="max-height:70vh; width:auto; display:block; margin:0 auto;">
 </p>
 
+
 <h3 align="center"> Comparative study of Deep Q-Network (DQN) and Proximal Policy Optimization (PPO) versus Rule-Based Controller (RBC) in Microgrid Energy Management</h3>
 
 
